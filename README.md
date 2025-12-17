@@ -19,6 +19,7 @@ To write a program to find the LU Decomposition of a matrix.
 Input
 [[3, 2, 7], [2, 3, 1], [3, 4, 1]]
 /*
+
 Program to find the L and U matrix.
 ```
 import numpy as np
@@ -30,6 +31,7 @@ x=lu_solve((lu,pivot),B)
 print(x)
 
 Developed by: AMSAVARADHAN M
+
 RegisterNumber: 25011322
 */
 ```
@@ -39,6 +41,7 @@ Input
 [[3, 2, 7], [2, 3, 1], [3, 4, 1]]
 [4, 5, 7]
 /*
+
 Program to find the LU Decomposition of a matrix.
 ```
 import numpy as np
@@ -50,11 +53,13 @@ x=lu_solve((lu,pivot),B)
 print(x)
 ```
 Developed by: AMSAVARADHAN M
+
 RegisterNumber: 25011322
 */
 ```
 
 ## Output:
+
 <img width="1920" height="1020" alt="Screenshot 2025-12-17 095432" src="https://github.com/user-attachments/assets/f7260202-5859-4171-b77d-5554f8b0deb4" />
 <img width="1920" height="1020" alt="Screenshot 2025-12-17 095453" src="https://github.com/user-attachments/assets/2cf28c71-32e5-480e-b7ee-d3dc0de9697f" />
 

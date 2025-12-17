@@ -18,10 +18,10 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 Input
 [[3, 2, 7], [2, 3, 1], [3, 4, 1]]
-/*
+
 
 Program to find the L and U matrix.
-```
+/*
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 A=np.array(eval(input()))
@@ -33,14 +33,12 @@ print(x)
 Developed by: AMSAVARADHAN M
 
 RegisterNumber: 25011322
-*/
-```
+
 (ii) To find the LU Decomposition of a matrix
 ```
 Input
 [[3, 2, 7], [2, 3, 1], [3, 4, 1]]
 [4, 5, 7]
-/*
 
 Program to find the LU Decomposition of a matrix.
 ```
@@ -55,8 +53,6 @@ print(x)
 Developed by: AMSAVARADHAN M
 
 RegisterNumber: 25011322
-*/
-```
 
 ## Output:
 

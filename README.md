@@ -21,7 +21,7 @@ Input
 
 
 Program to find the L and U matrix.
-/*
+
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 A=np.array(eval(input()))
